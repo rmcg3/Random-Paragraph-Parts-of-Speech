@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.exe
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.AssemblyInfo.cs
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.deps.json
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.runtimeconfig.json
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.runtimeconfig.dev.json
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.dll
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\SynSetConsoleAppTest.pdb
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\bin\Debug\netcoreapp3.1\Syn.WordNet.dll
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.csproj.CopyComplete
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.dll
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.pdb
+C:\Users\pc\source\repos\SynSetConsoleAppTest\SynSetConsoleAppTest\obj\Debug\netcoreapp3.1\SynSetConsoleAppTest.genruntimeconfig.cache

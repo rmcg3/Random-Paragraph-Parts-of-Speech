@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Syn.WordNet/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Syn.WordNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syn.WordNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syn.WordNet/1.0.5": {
+      "sha512": "X0T+2sHJ2mr/bBmfxRviZHvDu4NCvPb7c/t3QZ7PLLUmucQ5CQd7fwDBbyPp9k67ypzH4CKUQjMmIdVv9ZPSMw==",
+      "type": "package",
+      "path": "syn.wordnet/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Syn.WordNet.dll",
+        "lib/net46/Syn.WordNet.dll",
+        "lib/netstandard1.0/Syn.WordNet.dll",
+        "lib/netstandard2.0/Syn.WordNet.dll",
+        "syn.wordnet.1.0.5.nupkg.sha512",
+        "syn.wordnet.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Syn.WordNet >= 1.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\SynSetConsoleAppTest\\SynSetConsoleAppTest\\SynSetConsoleAppTest.csproj",
+      "projectName": "SynSetConsoleAppTest",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\SynSetConsoleAppTest\\SynSetConsoleAppTest\\SynSetConsoleAppTest.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\SynSetConsoleAppTest\\SynSetConsoleAppTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Syn.WordNet": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

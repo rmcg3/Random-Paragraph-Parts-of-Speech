@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SynSetConsoleAppTest/1.0.0": {
+        "dependencies": {
+          "Syn.WordNet": "1.0.5"
+        },
+        "runtime": {
+          "SynSetConsoleAppTest.dll": {}
+        }
+      },
+      "Syn.WordNet/1.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/Syn.WordNet.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynSetConsoleAppTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syn.WordNet/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X0T+2sHJ2mr/bBmfxRviZHvDu4NCvPb7c/t3QZ7PLLUmucQ5CQd7fwDBbyPp9k67ypzH4CKUQjMmIdVv9ZPSMw==",
+      "path": "syn.wordnet/1.0.5",
+      "hashPath": "syn.wordnet.1.0.5.nupkg.sha512"
+    }
+  }
+}
