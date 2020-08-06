@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -8,13 +8,12 @@ namespace webDataRead
     class DataScraper
     {
         private static readonly HttpClient client = new HttpClient();
-      
-       public static async Task<string> getParagraphAsync()
+
+        public static async Task<string> getParagraphAsync()
         {
-         
             string subject1 = "";
-         
             string subject2 = "";
+
             Dictionary<string, string> parameters = new Dictionary<string, string>()
         {
             { "Subject1", subject1 },
@@ -42,3 +41,4 @@ namespace webDataRead
         }
     }
 }
+
