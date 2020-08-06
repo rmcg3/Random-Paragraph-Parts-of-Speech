@@ -54,22 +54,6 @@ namespace SynSetConsoleAppTest
                 }
             }
 
-            /*Console.Write("\nType first word:");
-
-            var word = Console.ReadLine();
-            var synSetList = wordNet.GetSynSets(word);
-            //System.Collections.Generic.List<SynSet> synSetList
-            if (synSetList.Count == 0) Console.WriteLine($"No SynSet found for '{word}'");
-
-            foreach (var synSet in synSetList)
-            {
-                var words = string.Join(", ", synSet.Words);
-
-                Console.WriteLine($"\nWords: {words}");
-                Console.WriteLine($"Part Of Speech: {synSet.PartOfSpeech}");
-                Console.WriteLine($"Gloss: {synSet.Gloss}");
-            }*/
-
         }
         static async System.Threading.Tasks.Task Main()
         {
